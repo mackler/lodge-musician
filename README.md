@@ -1,6 +1,6 @@
 # Lodge Musician
 
-This setup is based on [SoundShow]https://soundshow.app/getting-started
+This setup is based on [SoundShow](https://soundshow.app/getting-started)
 
 Get it [here](https://soundshow.app/downloads)
 
@@ -47,7 +47,7 @@ In otherword, in `/usr/local` are
 - /usr/local/SoundShow-soundfiles
 - /usr/local/SoundShow.ssp
 
-This is the contenso the desktop file to launch it.
+This is the contens of the desktop file to launch it.
 
 ```
 [Desktop Entry]
